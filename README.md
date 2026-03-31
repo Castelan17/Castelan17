@@ -43,16 +43,7 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <!-- Hardware & Embedded -->
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,bash&perline=8" />
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=c,cpp,py,rust,java&perline=8" />
-
-<!-- Web & Tools -->
-<img src="https://skillicons.dev/icons?i=html,css,ts,tailwind,docker,postgres,mysql,nginx,vscode,github&perline=10" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,bash,c,cpp,py,rust,java,html,css,ts,tailwind,docker,postgres,mysql,nginx,vscode,github&perline=10" />
 </p>
 
 
