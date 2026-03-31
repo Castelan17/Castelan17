@@ -19,21 +19,17 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Verilog, VHDL, C, C++, System C, Assembler**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🔭 I’m currently working on **Verilog, VHDL, with Verilog on the Tang Nano 9K, C, C++, System C, Assembler**
 
 - ☁️ I'm currently learning digital design fundamentals and HDL-based development on FPGA hardware**
 
-- 📝 Currently exploring**digital design with Verilog on the Tang Nano 9K**
+- 🤖 Currently working as IoT Development Intern at **GALEX, designing PCBs and developing firmware for embedded systems**
 
 - 💬 Ask me about **Embedded systems**
 
 - 📫 Feel free to reach me out **Fabian.Castellanos1703@gmail.com**
 
-- 🤖 Currently working as IoT Development Intern at **GALEX, designing PCBs and developing firmware for embedded systems**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [DalasCalvo](https://discord.com/users/.dalascalvo) my username!
 <!--Intro end-->
 
 
