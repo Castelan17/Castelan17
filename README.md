@@ -40,9 +40,19 @@
   </ul>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,bash,c,cpp,py,java,html,css,docker,postgres,mysql,vscode,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,bash,c,cpp,py,java,html,css&perline=10" />
   </a>
 </p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,vscode,github&perline=10" />
+  </a>
+</p>
+
+
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
