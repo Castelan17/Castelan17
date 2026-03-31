@@ -42,10 +42,11 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
-</div>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,bash,c,cpp,py,rust,java,html,css,ts,tailwind,docker,postgres,mysql,nginx,vscode,github&perline=10" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,bash,c,cpp,py,rust,java,html,css,ts,tailwind,docker,postgres,mysql,nginx,vscode,github&perline=10" />
+  </a>
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
