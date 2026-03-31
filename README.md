@@ -23,13 +23,15 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in Hardware development. So,I'm learning **FPGA development & embedded systems**
+- ☁️ I'm currently learning digital design fundamentals and HDL-based development on FPGA hardware**
 
 - 📝 Currently exploring**digital design with Verilog on the Tang Nano 9K**
 
 - 💬 Ask me about **Embedded systems**
 
 - 📫 Feel free to reach me out **Fabian.Castellanos1703@gmail.com**
+
+- 🤖 Currently working as IoT Development Intern at **GALEX, designing PCBs and developing firmware for embedded systems**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [DalasCalvo](https://discord.com/users/.dalascalvo) my username!
 <!--Intro end-->
@@ -43,9 +45,14 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,cpp,css,discord,docker,postgres,figma,stackoverflow,arduino,rabbitmq,raspberrypi,github,html,java,arduino,linux,nginx,mysql,bash,c,py,rust,tailwind,ts,vscode&perline=14" />
-  </a>
+  <!-- Hardware & Embedded -->
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,bash&perline=8" />
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=c,cpp,py,rust,java&perline=8" />
+
+<!-- Web & Tools -->
+<img src="https://skillicons.dev/icons?i=html,css,ts,tailwind,docker,postgres,mysql,nginx,vscode,github&perline=10" />
 </p>
 
 
