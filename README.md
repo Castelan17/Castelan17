@@ -40,7 +40,7 @@
   </ul>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,bash,c,cpp,py,rust,java,html,css,ts,tailwind,docker,postgres,mysql,nginx,vscode,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,bash,c,cpp,py,java,html,css,docker,postgres,mysql,vscode,github&perline=10" />
   </a>
 </p>
 
