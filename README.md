@@ -19,9 +19,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Verilog, VHDL, with Verilog on the Tang Nano 9K, C, C++, System C, Assembler**
+- 🔭 I’m currently working on **Verilog, VHDL, C, C++, System C, Assembler**
 
-- ☁️ I'm currently learning digital design fundamentals and HDL-based development on FPGA hardware**
+- ☁️ I'm currently learning digital design fundamentals and **HDL-based development on FPGA hardware - Tang Nano 9K**
 
 - 🤖 Currently working as IoT Development Intern at **GALEX, designing PCBs and developing firmware for embedded systems**
 
